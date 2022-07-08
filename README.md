@@ -19,7 +19,7 @@ Para ver as aulas do desenvolvimento do projeto completo em vídeo:
 
 Para ver o projeto em tempo real:
 
-<a href = "[https://gasprices-dash-asimov.herokuapp.com](https://sales-analysis-dash.herokuapp.com/)"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
+<a href = "https://sales-analysis-dash.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
 
 ## 👨‍💻 Tecnologias Utilizadas
 
@@ -30,4 +30,4 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 > - Dash Bootstrap
 > - Plotly
 > - Pandas
-> - NumPy
+
